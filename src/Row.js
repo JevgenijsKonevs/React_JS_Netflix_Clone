@@ -15,17 +15,17 @@ export default function Row({ title, fetchUrl }) {
   }, [fetchUrl]);
 
   return (
-    <div className="row__posters">
+    <div className="row">
       <h2>{title}</h2>
-      <div className="">{/*row_poster*/}</div>
-
-      {movies.map((movie) => (
-        <img
-          className="row__poster"
-          src={`${base_url}${movie.poster_path}`}
-          alt={movie.name}
-        />
-      ))}
+      <div className="row__posters">
+        {movies.map((movie) => (
+          <img
+            className="row__poster"
+            src={`${base_url}${movie.poster_path}`}
+            alt={movie.name}
+          />
+        ))}
+      </div>
     </div>
   );
 }
