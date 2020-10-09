@@ -5,7 +5,7 @@ import Banner from "./Banner";
 import requests from "./request";
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Banner />
       <Row
         title="NETFLIX ORIGINALS"

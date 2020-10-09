@@ -38,13 +38,15 @@ function Banner() {
         </h1>{" "}
         {/* Optional chaining : if movie.title does not exist then look for movie.name */}
         <div className="banner_buttons">
-          <button className="banner_button">Play</button>
-          <button className="banner_button">My list</button>
+          <button className="banner__button">Play</button>
+          <button className="banner__button">My list</button>
         </div>
         <h1 className="banner__description">
           {truncate(movie?.overview, 150)}
         </h1>
       </div>
+      {/* Adding empty div to the header in order to create an image gradient fade effect */}
+      <div className="banner--fadeBottom" />
     </header>
   );
 }
