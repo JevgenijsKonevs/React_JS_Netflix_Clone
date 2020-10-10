@@ -1,8 +1,12 @@
 import React, { useState, useEffect } from "react";
-import YouTube from "react-youtube";
-import axios from "./axios";
-import "./Row.css";
+
+import axios from "../api/axios";
+import "../css/Row.scss";
+
+// components for trailer
 import movieTrailer from "movie-trailer";
+import YouTube from "react-youtube";
+
 const base_url = "https://image.tmdb.org/t/p/original/";
 
 export default function Row({ title, fetchUrl, isLargeRow }) {
