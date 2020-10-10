@@ -3,6 +3,7 @@ Creating a project called "Netflix Clone", trying to copycat the famous media st
 
 ## Preview
 ![first](https://user-images.githubusercontent.com/55871427/95640423-67a9e080-0aa5-11eb-81dc-9c9768a8332b.JPG)
+# Ability to click on poster and play the relative trailer of the movie
 ![second](https://user-images.githubusercontent.com/55871427/95640424-68427700-0aa5-11eb-9433-a65f1a6739f6.JPG)
 
 
