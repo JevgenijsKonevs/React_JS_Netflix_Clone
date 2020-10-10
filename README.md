@@ -2,8 +2,9 @@
 Creating a project called "Netflix Clone", trying to copycat the famous media streaming platform
 
 ## Preview
-![first](https://user-images.githubusercontent.com/55871427/95638091-31b42e80-0a9c-11eb-8cbe-8a31f2d10001.JPG)
-![second](https://user-images.githubusercontent.com/55871427/95638094-32e55b80-0a9c-11eb-8033-c98e76c2c57b.JPG)
+![first](https://user-images.githubusercontent.com/55871427/95640423-67a9e080-0aa5-11eb-81dc-9c9768a8332b.JPG)
+![second](https://user-images.githubusercontent.com/55871427/95640424-68427700-0aa5-11eb-9433-a65f1a6739f6.JPG)
+
 
 
 ## Available Scripts
