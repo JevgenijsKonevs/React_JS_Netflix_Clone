@@ -12,9 +12,7 @@ Creating a project called "Netflix Clone", trying to copycat the famous media st
 
 In the project directory, you can run:
 
-### `npm i react-youtube`
-
-### `npm i movie-trailer`
+### `npm i `
 
 ### `npm start`
 
